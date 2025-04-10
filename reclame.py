@@ -27,7 +27,7 @@ def gemiddelde(mijn_lijst):
     return f"De gemiddelde inkomsten deze week zijn {bedrag} euro."
 
 def meervoudig(invoer_lijst):
-    return laag_en_hoog(mijnlijst)
+    return laag_en_hoog(invoer_lijst)
 
 def combinatie(invoer_lijst_2):
     korte_lijst = laag_en_hoog(invoer_lijst_2)
